@@ -1,2 +1,2 @@
-# SinglePage
- Simple responsive page with TailwindCSS
+# TailwindCSS Single Page
+ Simple page made with responsive components, pure HTML.
